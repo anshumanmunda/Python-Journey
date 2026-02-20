@@ -51,5 +51,5 @@ This section will be unlocked during the next **AI/Machine Learning Log**. It wi
 **"Consistency over Intensity."**
 Every notebook in this repository represents a hands-on solution. I believe that deep learning in AI requires a master-level understanding of the underlying language. 
 
-> **Note:** Learning depth > Certificate level.
+
 
