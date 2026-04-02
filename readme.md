@@ -39,6 +39,7 @@ This repository serves as a systematic engineering log of my progress through Py
 ---
 
 ## ⏳ Phase 2: Advanced (Coming Week 02)
+
 This section will be unlocked during the next **AI/Machine Learning Log**. It will focus on:
 * **Advanced Memory Management**
 * **Concurrency & Multithreading**
