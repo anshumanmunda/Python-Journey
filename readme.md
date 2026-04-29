@@ -1,56 +1,81 @@
-# 🐍 Python Journey: From Fundamentals to Advanced AI Logic
+# 🐍 Python Journey: From Logic to Architecture
 
-This repository serves as a systematic engineering log of my progress through Python. It is divided into two distinct phases, focusing on high-volume problem solving and architectural mastery.
+A systematic log of my journey through Python, evolving from foundational logic to advanced Object-Oriented design and system optimization.
 
-> **Current Status:** 🚀 Phase 1: Fundamentals (Ongoing) | ⏳ Phase 2: Advanced (Unlocks Week 2)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## 🗺️ The Roadmap
+## 🗺️ Roadmap & Progress
 
-| Phase | Focus | Status | Total Challenges |
+| Phase | Focus Area | Status | Milestone |
 | :--- | :--- | :--- | :--- |
-| **Phase 1** | **Core Fundamentals & Logic** | ✅ Ongoing | 260+ Questions |
-| **Phase 2** | **Advanced Architecture & Optimization** | 🛠️ Scheduled | 200+ Questions |
+| **Phase 01** | **OOPS** | ✅ Completed | OOP Principals |
+| **Phase 02** | **Foundations** | ✅ Ongoing | 260+ Problems |
+| **Phase 03** | **Advanced** | ⏳ Scheduled | System Scaling |
 
 ---
 
-## 📂 Phase 1: Fundamentals (Week 01 Log)
-*Goal: Building an unbreakable foundation in Python syntax, data structures, and functional programming.*
+## 🏗️ 01-oops-notes: Architectural Design
+*Target: Transitioning from a script-based mindset to a class-based architectural mindset.*
 
-| Section | Topics Covered | Challenge Count | Notebook Link |
-| :--- | :--- | :--- | :--- |
-| **01** | Basics & Print Function | 5 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/1-Print_Function.ipynb) |
-| **02** | Variables & Keywords | 10 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/2-Variables.ipynb) |
-| **03** | Type Conversion & Numbers | 10 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/4-Type_Conversion.ipynb) |
-| **04** | User Input Systems | 15 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/6-User_input.ipynb) |
-| **05** | Decision Control & Match Case | 25 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/8-Decision_control.ipynb) |
-| **06** | Operators & Logic | 10 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/7-Operators.ipynb) |
-| **07** | Loops (While, For & Range) | 40 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/10-While_loop.ipynb) |
-| **08** | Python Strings | 20 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/12-Strings.ipynb) |
-| **09** | **Data Structures:** Lists & Tuples | 35 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/13-List.ipynb) |
-| **10** | **Data Structures:** Sets & Dicts | 35 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/16-Dict.ipynb) |
-| **11** | Functions & Logic Part 1 & 2 | 20 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/17-Functions.ipynb) |
-| **12** | Lambda & Functional Logic | 25 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/19-Lamda_Expression.ipynb) |
-| **13** | Map, Reduce, & Filter | 15 Questions | [Open Notebook](./PHASE_1%20_FUNDAMENTALS%20(%20260_QUES)/20-Map_Reduce_Filter.ipynb) |
+This phase focuses on building scalable and reusable code through the Object-Oriented paradigm.
 
-> **Note:** Decorators, OOPS,Exceptional Handling,  File Handling, and Grand Master modules will be appended to this log as they are finalized.
+| Module | Topic | Link |
+| :--- | :--- | :--- |
+| **01** | Classes & Objects | [Explore](./01-oops-notes/01-class-object/) |
+| **02** | Encapsulation | [Explore](./01-oops-notes/02-Encapsulation/) |
+| **03** | Inheritance | [Explore](./01-oops-notes/03-Inheritance/) |
+| **04** | Polymorphism | [Explore](./01-oops-notes/04-Polymorphism/) |
+| **05** | Abstraction | [Explore](./01-oops-notes/05-Abstraction/) |
+| **06** | File Handling | [Explore](./01-oops-notes/06-File-handling/) |
+| **07** | Exceptional Handling | [Explore](./01-oops-notes/07-Exceptional-handling/) |
 
 ---
 
-## ⏳ Phase 2: Advanced (Coming Week 02)
+## 📂 02-Phase-1-fundamentals: Computational Foundations
+*Goal: Building an unbreakable foundation in memory-efficient data structures and functional programming.*
 
-This section will be unlocked during the next **AI/Machine Learning Log**. It will focus on:
-* **Advanced Memory Management**
-* **Concurrency & Multithreading**
-* **Algorithm Optimization for ML Models**
-* **Integration with SQL & Production APIs**
+| ID | Module | Documentation |
+| :--- | :--- | :--- |
+| **01** | Basics & Print Streams | [Notebook](./02-Phase-1-fundamentals/01-Print_Function.ipynb) |
+| **02** | Variables & Keywords | [Notebook](./02-Phase-1-fundamentals/02-Variables.ipynb) |
+| **03** | Python Keywords | [Notebook](./02-Phase-1-fundamentals/03-Keywords.ipynb) |
+| **04** | Type Systems & Conversion | [Notebook](./02-Phase-1-fundamentals/04-Type_Conversion.ipynb) |
+| **05** | Number Systems | [Notebook](./02-Phase-1-fundamentals/05-Number_system.ipynb) |
+| **06** | User Input Systems | [Notebook](./02-Phase-1-fundamentals/06-User_input.ipynb) |
+| **07** | Operators & Computational Logic | [Notebook](./02-Phase-1-fundamentals/07-Operators.ipynb) |
+| **08** | Decision Control Flow | [Notebook](./02-Phase-1-fundamentals/08-Decision_control.ipynb) |
+| **09** | Structural Pattern Matching | [Notebook](./02-Phase-1-fundamentals/09-Match_case.ipynb) |
+| **10** | While Loop Logic | [Notebook](./02-Phase-1-fundamentals/10-While_loop.ipynb) |
+| **11** | For Loop Iterations | [Notebook](./02-Phase-1-fundamentals/11-For_loop.ipynb) |
+| **12** | String Engineering | [Notebook](./02-Phase-1-fundamentals/12-Strings.ipynb) |
+| **13** | **Data Structures:** Lists | [Notebook](./02-Phase-1-fundamentals/13-List.ipynb) |
+| **14** | **Data Structures:** Tuples | [Notebook](./02-Phase-1-fundamentals/14-Tuples.ipynb) |
+| **15** | **Data Structures:** Sets | [Notebook](./02-Phase-1-fundamentals/15-Set.ipynb) |
+| **16** | **Data Structures:** Dictionaries | [Notebook](./02-Phase-1-fundamentals/16-Dict.ipynb) |
+| **17** | Functional Logic (Part 1) | [Notebook](./02-Phase-1-fundamentals/17-Functions.ipynb) |
+| **18** | Functional Logic (Part 2) | [Notebook](./02-Phase-1-fundamentals/18-Functions_Part2.ipynb) |
+| **19** | Lambda Expressions | [Notebook](./02-Phase-1-fundamentals/19-Lamda_Expression.ipynb) |
+| **20** | High-Order: Map, Reduce, Filter | [Notebook](./02-Phase-1-fundamentals/20-Map_Reduce_Filter.ipynb) |
 
 ---
 
-## 📈 Learning Philosophy
+## ⏳ 02-Phase-2-advance: Advanced Engineering
+*Upcoming modules focusing on production-grade Python patterns and optimizations.*
+
+* **Deep Dive:** Decorators & Iterators
+* **Performance:** Memory Management & Profiling
+* **Integrations:** Database connectivity & API Logic
+
+---
+
+## 📉 Core Philosophy
 **"Consistency over Intensity."**
-Every notebook in this repository represents a hands-on solution. I believe that deep learning in AI requires a master-level understanding of the underlying language. 
+Every notebook in this repository represents a hands-on solution. I believe that professional engineering is built on a master-level understanding of the language's core mechanics.
 
+---
 
-
+<p align="center">
+  <i>"Mastering the logic that powers modern systems."</i>
+</p>
