@@ -1,0 +1,11 @@
+Hello how are you ?
+What is your name ?
+What is your age ?
+Where do you live ?
+Hii, I am fine.
+My name is Anshuman Munda.
+I am 22 years old.
+I live in Ranchi.
+r	read	reads existing file
+rb	read binary	reads binary file
+wb	write binary	writes binary file

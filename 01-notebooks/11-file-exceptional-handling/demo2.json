@@ -1,0 +1,13 @@
+{
+    "name": "Anshuman",
+    "age": 22,
+    "marks": [
+        50,
+        80,
+        90,
+        40,
+        60
+    ],
+    "dept": "MCA",
+    "university": "DSPMU"
+}

@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "description": "Wake up early",
+            "complete": true
+        },
+        {
+            "description": "Bring Milk",
+            "complete": false
+        },
+        {
+            "description": "Study Python",
+            "complete": false
+        }
+    ]
+}

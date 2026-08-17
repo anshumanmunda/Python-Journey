@@ -1,0 +1,4 @@
+Hi, my name is Anshuman
+I am 22 years old
+I live in Ranchi
+This is a new line added in append mode.

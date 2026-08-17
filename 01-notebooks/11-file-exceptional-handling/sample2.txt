@@ -1,0 +1,3 @@
+r	read	reads existing file
+rb	read binary	reads binary file
+wb	write binary	writes binary file
